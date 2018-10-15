@@ -1,3 +1,3 @@
 This is the outline for the SES 330 Final Project:
 
-We are building a 21cm pyramidal horn to measure the hydrogen lines in our galaxy.
+We are building a 21cm horn to measure the hydrogen lines in our galaxy.
